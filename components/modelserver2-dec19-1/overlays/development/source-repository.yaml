@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: modelserver2-dec19-1-repository
+spec:
+  url: https://github.com/redhat-appstudio-mjf/modelserver2-dec19-1
